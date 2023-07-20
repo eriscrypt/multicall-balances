@@ -1,0 +1,123 @@
+{
+  "tokens": {
+    "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+    },
+    "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/Badge_Dai.png?1687143508"
+    },
+    "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79": {
+      "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+      "name": "SX Network",
+      "symbol": "SX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13779/thumb/sx.png?1636034699"
+    },
+    "0xe6fc6c7cb6d2c31b359a49a33ef08ab87f4de7ce": {
+      "address": "0xe6fc6c7cb6d2c31b359a49a33ef08ab87f4de7ce",
+      "name": "IG Gold",
+      "symbol": "IGG",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/7697/thumb/N7aEdYrY_400x400.png?1561587437"
+    },
+    "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663"
+    },
+    "0x72d6066f486bd0052eefb9114b66ae40e0a6031a": {
+      "address": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a",
+      "name": "WazirX",
+      "symbol": "WRX",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/10547/thumb/WazirX.png?1580834330"
+    },
+    "0xf88332547c680f755481bf489d890426248bb275": {
+      "address": "0xf88332547c680f755481bf489d890426248bb275",
+      "name": "inSure DeFi",
+      "symbol": "SURE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10354/thumb/logo-grey-circle.png?1614910406"
+    },
+    "0x47536f17f4ff30e64a96a7555826b8f9e66ec468": {
+      "address": "0x47536f17f4ff30e64a96a7555826b8f9e66ec468",
+      "name": "Beluga fi",
+      "symbol": "BELUGA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13790/thumb/brand-logo-v2.23e5d279.png?1624906164"
+    },
+    "0x6ccf12b480a99c54b23647c995f4525d544a7e72": {
+      "address": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
+      "name": "Starter xyz",
+      "symbol": "START",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14301/thumb/logo_poly_sym.png?1624893386"
+    },
+    "0x6ddb31002abc64e1479fc439692f7ea061e78165": {
+      "address": "0x6ddb31002abc64e1479fc439692f7ea061e78165",
+      "name": "Furucombo",
+      "symbol": "COMBO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13629/thumb/COMBO_token_ol.png?1610701537"
+    },
+    "0xd0660cd418a64a1d44e9214ad8e459324d8157f1": {
+      "address": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+      "name": "Woofy",
+      "symbol": "WOOFY",
+      "decimals": 12,
+      "logoURI": "https://assets.coingecko.com/coins/images/15410/thumb/woofy.png?1622566328"
+    },
+    "0xa7305ae84519ff8be02484cda45834c4e7d13dd6": {
+      "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+      "name": "UniFarm",
+      "symbol": "UFARM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15247/thumb/ufarm.jpeg?1620218765"
+    },
+    "0x172370d5cd63279efa6d502dab29171933a610af": {
+      "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/thumb/Curve.png?1597369484"
+    },
+    "0x50b728d8d964fd00c2d0aad81718b71311fef68a": {
+      "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+      "name": "Synthetix Network",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3406/thumb/SNX.png?1598631139"
+    },
+    "0xfed16c746cb5bfed009730f9e3e6a673006105c7": {
+      "address": "0xfed16c746cb5bfed009730f9e3e6a673006105c7",
+      "name": "Digital Reserve Currency",
+      "symbol": "DRC",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/12802/thumb/DRC_Logo.jpg?1654229818"
+    },
+    "0x4cebdbcb286101a17d3ea1f7fe7bbded2b2053dd": {
+      "address": "0x4cebdbcb286101a17d3ea1f7fe7bbded2b2053dd",
+      "name": "Yield App",
+      "symbol": "YLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13365/thumb/Google_Play_Store_Icon.png?1657012535"
+    },
+    "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639": {
+      "address": "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639",
+      "name": "DSLA Protocol",
+      "symbol": "DSLA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6694/thumb/dsla_logo-squared_200x200.png?1569571063"
+    }
+  }
+}
