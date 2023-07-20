@@ -1,8 +1,21 @@
 # Retrieve token's balances
-## Using wagmi / viem / multicall
 
-## Get assets list
-<a href="https://api.coingecko.com/api/v3/asset_platforms" />
+### Description
+Retrieve token's balances from a wallet address
+using wagmi / viem / multicall
 
-## Get tokens list by Coingecko asset
-<a href="https://tokens.coingecko.com/polygon-pos/all.json" />
+### Install
+```bash
+yarn
+```
+
+### Run
+```bash
+yarn dev
+```
+
+
+### Links
+<a href="https://api.coingecko.com/api/v3/asset_platforms">Assets list</a>
+
+<a href="https://tokens.coingecko.com/polygon-pos/all.json" >Tokens list by asset</a>
